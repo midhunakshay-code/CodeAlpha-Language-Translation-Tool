@@ -19,27 +19,21 @@ It allows users to translate text from one language to another using Google Tran
 ## Installation
 
 1. Clone the repository
-
 git clone https://github.com/midhunakshay-code/CodeAlpha-Language-Translation-Tool.git
 
 2. Navigate to project folder
-
 cd CodeAlpha-Language-Translation-Tool
 
 3. Install dependencies
-
 pip install -r requirements.txt
 
 ## How to Run
-
 python translation.py
 
 ## Requirements
-
 deep-translator>=1.11.4
 
 ## Author
-
 Midhun Akshay
 
 CodeAlpha AI Internship Project
